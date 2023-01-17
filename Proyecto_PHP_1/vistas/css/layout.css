@@ -1,0 +1,19 @@
+* {font-family: Arial, Helvetica, sans-serif;}
+#menu {
+    border: 0px;
+    border-radius: 2px;
+    height: 5%;
+    width: 100%;
+    text-align: center;    
+    margin: 0 auto;
+    line-height: 20px;
+}
+span a{
+    text-decoration:none;
+    color:#039; 
+    padding: 1%;
+}
+#busqueda{
+    position: absolute;
+    z-index: 2;
+}

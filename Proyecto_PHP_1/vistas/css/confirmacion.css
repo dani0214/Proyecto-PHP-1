@@ -1,0 +1,31 @@
+input[type=submit] {
+    text-decoration: none;
+    border: 0px;
+    border-radius: 2px;
+    background-color: rgba(10, 66, 187, 0.25);
+    display: block;
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 20px;
+    color: rgb(21, 21, 53);
+    font-size: 14px;
+}
+
+input[type=radio] {
+    height: 15px;
+    width: 15px;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+  div{
+    border: 0px;
+    border-radius: 2px;
+    height: 5%;
+    width: 100%;
+    text-align: center;    
+    margin: 0 auto;
+    line-height: 20px;
+  }
